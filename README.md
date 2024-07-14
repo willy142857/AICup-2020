@@ -1,6 +1,9 @@
 
 # 醫病訊息決策與對話語料分析競賽 - 秋季賽：醫病資料去識別化 - Team name : Lobster
 
+## Final Score
+Achieved **0.811 F1-score** and received honorable mention [**(6/174)**](https://www.aicup.tw/_files/ugd/7fbdbf_4ed126ff1bb34c19b39f3d476361210d.pdf) in the competition.
+
 ## Getting Started
 
 ### Prerequisites
